@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+D:\Java_Practice\JSP_Servelets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1847536249.index
+\JSP_Exception\src\main\java
+D:\Java_Practice\JSP_Servelets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2410798970.index
+\DemoApp\src\main\java
+D:\Java_Practice\JSP_Servelets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2183913555.index
+\JSTL_Demo\src\main\java
+D:\Java_Practice\JSP_Servelets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\20337251.index
+\LoginExample\src\main\java
+D:\Java_Practice\JSP_Servelets\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1650395847.index
+\JSP_ExceptionHandling\src\main\java
