@@ -10,5 +10,9 @@
    
    <context:component-scan base-package="com.Shubham.MavenPrac"></context:component-scan>
    
-	<bean id="vehicle" class="com.Shubham.MavenPrac.Car"></bean>
+	<!--  <bean id="vehicle" class="com.Shubham.MavenPrac.Car"></bean> -->
+	<!--  <bean id='tyre' class='com.Shubham.MavenPrac.Tyre'> -->
+		<!-- <property name="brand" value="MRF"></property> -->
+		<!-- <constructor-arg value="CEAT"></constructor-arg> -->
+	<!-- </bean>  -->
 </beans>
