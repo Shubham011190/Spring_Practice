@@ -8,6 +8,7 @@
 </head>
 <body>
 	<h1>This is the Homepage</h1>
-
+	<h2>Hello </h2> 
+	${alienObj.aid}, ${alienObj.aname}, ${alienObj.lang}
 </body>
 </html>
