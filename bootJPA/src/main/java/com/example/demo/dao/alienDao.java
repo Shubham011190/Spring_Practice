@@ -2,12 +2,11 @@ package com.example.demo.dao;
 
 import java.util.List;
 
+import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
-import org.springframework.data.repository.CrudRepository;
-
 import com.example.demo.model.Alien;
 
-public interface alienDao extends CrudRepository<Alien, Integer>{
+public interface alienDao extends JpaRepository<Alien, Integer>{
 	List<Alien> findByTech(String tech);		//Autoconfigured by Spring. Use findBy[field_name]
 
 	List<Alien> findByAidGreaterThan(int aid);
